@@ -4,7 +4,7 @@
 ✏️ Descrição do Exercicio 1 - Branch ex2
 Foi proposto uma revisão sobre Programação Orientada a Objeto em JavaScript
 
-✏️ Descrição do Exercicio 2 - Brach ex3
+✏️ Descrição do Exercicio 2 - Branch ex3
 Nessa aula foi introduzido o conceito de Node.js e JavaScript
 
  
